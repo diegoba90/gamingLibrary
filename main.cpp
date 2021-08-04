@@ -4,11 +4,7 @@
  It will allow you to add, remove, clear, display, count, sort, search and exit the program.
  It will utilize structs, vectors, templates and algorithms.
  */
- 
-/*
- CSCI 4100 Dr. Casimir-Patton, AUM
- HW 4
- */
+
 
 #include <iostream>
 #include <fstream>
